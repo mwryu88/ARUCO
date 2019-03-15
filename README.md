@@ -1,2 +1,2 @@
 # ARUCO
-. Download folders in .gazebo/models folder.
+. Download folders to the .gazebo/models folder.
