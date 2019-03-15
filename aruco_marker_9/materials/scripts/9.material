@@ -1,0 +1,13 @@
+material Aruco/Marker_9
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture 9.png
+			}
+		}
+	}
+}

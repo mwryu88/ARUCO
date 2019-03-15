@@ -1,0 +1,13 @@
+material Aruco/Marker_6
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture 6.png
+			}
+		}
+	}
+}
